@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>House &#8211; Rent</title>
+	<atom:link href="httpmuhammadfuzail.github.io/Rent/listings/house/feed/" rel="self" type="application/rss+xml" />
+	<link>httpmuhammadfuzail.github.io/Rent</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Apr 2015 12:08:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>httpmuhammadfuzail.github.io/Rent/wp-content/uploads/2022/10/tenerife-fav-60x60.png</url>
+	<title>House &#8211; Rent</title>
+	<link>httpmuhammadfuzail.github.io/Rent</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rogers Garden</title>
+		<link>httpmuhammadfuzail.github.io/Rent/properties/rogers-garden/</link>
+					<comments>httpmuhammadfuzail.github.io/Rent/properties/rogers-garden/#respond</comments>
+		
+		<dc:creator><![CDATA[rent_admin]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2015 12:08:38 +0000</pubDate>
+				<guid isPermaLink="false">http://demo1.wprentals.org/?post_type=estate_property&#038;p=107</guid>
+
+					<description><![CDATA[Cosy bungalow with garden and communal pool in Playa del Inglés. Accommodation of 65m², with separate double bedroom, spacious living room with integrated open plan kitchen, bathroom and with large garden and views to the pool. The open plan kitchen is connected to the living room with all quality appliances such as ceramic hob, fridge, ...]]></description>
+										<content:encoded><![CDATA[<p class="text-medium">Cosy bungalow with garden and communal pool in Playa del Inglés.</p>
+<p>Accommodation of 65m², with separate double bedroom, spacious living room with integrated open plan kitchen, bathroom and with large garden and views to the pool.<br />
+The open plan kitchen is connected to the living room with all quality appliances such as ceramic hob, fridge, microwave, freezer, washing machine, crockery/cutlery, kitchen utensils, coffee machine, toaster, kettle and juicer.</p>
+<p>It has a large garden with furniture and sunbeds ideal for eating, sunbathing and relaxing.<br />
+In the centre of Playa del Inglés and close to all the services offered by this beautiful tourist area such as restaurants, cafes, supermarkets and all kinds of leisure facilities for an ideal holiday.<br />
+It has everything you need to spend an ideal holiday as if you were at home, such as iron, unlimited Internet access (wifi), hairdryer, and 1 Smart Tv.<br />
+It has a large garden with furniture and hammocks ideal for eating, sunbathing and relaxing.<br />
+Communal swimming pool open all year round.</p>
+<p>Playa del Inglés is one of the most famous beaches in Gran Canaria. Located in the south of Gran Canaria, it is almost three kilometres of golden sand and calm waters that lead to the unique dunes of Maspalomas. Along the beach there are service areas and places to practice sports such as volleyball and beach football, and it is considered an ideal place to spend a family day at the beach. The &#8220;English beach&#8221;, as it is literally translated from Spanish, offers sand during the day and pubs and discos at night.</p>
+<p>From CanariasGetaway, we are sure you will enjoy a holiday in Playa del Inglés, known as a fun and sun resort characterised by luxury hotels, shopping centres and fast food restaurants. Created in the 1960&#8217;s, what was once barren land is now a hyper-tourist centre and famous throughout Europe. Huge shopping centres, such as Yumbo, can be found throughout the area, while local restaurants and resorts offer unique and traditional Canarian food.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpmuhammadfuzail.github.io/Rent/properties/rogers-garden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
